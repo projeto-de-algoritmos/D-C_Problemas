@@ -22,6 +22,8 @@ Exercícios Solucionados:
 
 Seguem aqui os screenshots das questões solucionadas, a seta de cada print serve apenas para apontar para o indicador que demonstra que o problema foi resolvido com sucesso.
 
+Importante ressaltar que todos os exercícios usam o rpincípio de algoritmos de "Dividir e Conquistar", separando o problema em subproblemas e depois juntando os pedaços já resolvidos, para então dar a resposta final.
+
 ### 42 - Trapping Rain Water
 
 Para ver a solução dessa questão clicar [aqui](./exercicios/42.py).
@@ -53,7 +55,7 @@ Importante ressaltar que é necessário selecionar a linguagem "Python3" na plat
 
 ## Outros 
 
-Para acessar o vídeo onde os códigos e algoritmos são explicados e detalhados, basta clicar [aqui]().
+Para acessar o vídeo onde os códigos e algoritmos são explicados e detalhados, basta clicar [aqui](./video/Entrega%204%20-%20Dividir%20e%20Conquistar.mp4).
 
 OBS: O arquivo de vídeo esta com a extensão .mp4, o que torna necessário o download do arquivo para assistir ao vídeo.
 
