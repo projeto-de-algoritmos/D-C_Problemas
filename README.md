@@ -26,13 +26,19 @@ Seguem aqui os screenshots das questões solucionadas, a seta de cada print serv
 
 Para ver a solução dessa questão clicar [aqui](./exercicios/42.py).
 
+![Imagem 42](./img/42.png)
+
 ### 1982 - Find Array Given Subset Sums
 
 Para ver a solução dessa questão clicar [aqui](./exercicios/1982.py).
 
+![Imagem 1982](./img/1982.png)
+
 ### 17 - Letter Combinations of a Phone Number
 
 Para ver a solução dessa questão clicar [aqui](./exercicios/17.py).
+
+![Imagem 17](./img/17.png)
 
 ## Instalação 
 **Linguagem**: Python 3<br>
